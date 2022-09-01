@@ -1,3 +1,5 @@
+OUT OF DATE SINCE DISCORD CHANGED INTENTS, WILL BE FIXING SOON...
+
 # Discord-Status-Changer
 This is a discord account status changing SelfBot ( Streaming, listening, etc)
 
